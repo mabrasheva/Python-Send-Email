@@ -28,7 +28,7 @@ def date_and_time_format():
     return date_and_time_string
 
 
-attachment_file_path = "./Files_Folder/test_csv_file.csv"  # fill the attachment path. Example: "./Folder/file.csv"
+attachment_file_path = ""  # fill the attachment path. Example: "./Folder/file.csv"
 sender_email = ""  # fill the sender email address
 receiver_email = ""  # fill the receiver email address
 password = ""  # fill the password
