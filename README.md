@@ -1,1 +1,1 @@
-# Python-Send-Email
+#### Repository containing python script sending email.
